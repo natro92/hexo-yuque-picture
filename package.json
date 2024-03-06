@@ -1,0 +1,17 @@
+{
+  "name": "hexo-yuque-picture",
+  "version": "0.0.1",
+  "description": "A hexo plugin to solve the img from Yuque.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "plugin",
+    "yuque",
+    "anti-stealing-link"
+  ],
+  "author": "Natro92",
+  "license": "MIT"
+}
