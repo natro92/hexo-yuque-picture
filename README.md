@@ -2,6 +2,8 @@
 
 方便使用语雀的图片链接时可以正常显示，为img元素添加 `referrerpolicy="no-referrer"` 属性，绕过图片防盗链。
 
+如果需要批量导出语雀md文档，请使用：[natro92/Yuque-export: 无需token批量导出语雀文档](https://github.com/natro92/Yuque-export)
+
 ## 安装
 
 ```bash
